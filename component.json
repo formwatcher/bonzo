@@ -3,5 +3,5 @@
   , "repo": "formwatcher/bonzo"
   , "version": "1.2.1"
   , "keywords": ["ender", "dom", "nodes", "jquery", "iteration", "css"]
-  , "scripts": [ "./index.js" ]
+  , "scripts": [ "index.js" ]
 }
