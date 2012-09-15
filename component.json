@@ -1,5 +1,6 @@
 {
     "name": "bonzo"
+  , "repo": "formwatcher/bonzo"
   , "description": "Library agnostic, extensible DOM utility"
   , "version": "1.2.1"
   , "homepage": "https://github.com/ded/bonzo"
@@ -9,6 +10,7 @@
     ]
   , "keywords": ["ender", "dom", "nodes", "jquery", "iteration", "css"]
   , "main": "./bonzo.js"
+  , "scripts": [ "./bonzo.js" ]
   , "ender": "./src/ender.js"
   , "repository": {
         "type": "git"
